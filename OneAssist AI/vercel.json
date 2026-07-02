@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/api/health", "destination": "/api/health.ts" },
+    { "source": "/api/analyze", "destination": "/api/analyze.ts" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
