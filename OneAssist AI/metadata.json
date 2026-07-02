@@ -1,0 +1,6 @@
+{
+  "name": "OneAssist AI",
+  "description": "An AI-powered accessibility assistant that helps visually impaired users understand, navigate, and interact with their surroundings using computer vision, voice commands, and text-to-speech feedback.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
